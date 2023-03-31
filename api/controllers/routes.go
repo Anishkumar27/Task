@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/Anishkumar27/Task/api/middlewares"
+import "github.com/Anishkumar27/Task/middlewares"
 
 func (s *Server) initializeRoutes() {
 
