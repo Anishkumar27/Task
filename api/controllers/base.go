@@ -9,7 +9,7 @@ import (
 	"github.com/jinzhu/gorm"
 
 	_ "github.com/jinzhu/gorm/dialects/mysql"    //mysql database driver
-	"github.com/Anishkumar27/Task/api/models"
+	"github.com/Anishkumar27/Task/models"
 )
 
 type Server struct {
