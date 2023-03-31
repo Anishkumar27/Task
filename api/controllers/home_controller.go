@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/Anishkumar27/Task/api/responses"
+	"github.com/Anishkumar27/Task/responses"
 )
 
 func (server *Server) Home(w http.ResponseWriter, r *http.Request) {
